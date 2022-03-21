@@ -1,0 +1,6 @@
+# ninja log v5
+2	321	6695884629253081	CMakeFiles/lab01_Inheritance.dir/main.cpp.obj	7289d30575410a58
+321	470	6695884630723413	lab01_Inheritance.exe	31767cee23233a94
+6	305	6695698475902836	CMakeFiles/lab01_Inheritance.dir/Derived2.cpp.obj	2460dce17a57db5e
+2	283	6695696130751567	CMakeFiles/lab01_Inheritance.dir/Derived1.cpp.obj	3831e0856e56b51
+2	296	6695693271394846	CMakeFiles/lab01_Inheritance.dir/Base.cpp.obj	77c986773fca3ca

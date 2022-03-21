@@ -1,0 +1,3 @@
+C:/Users/Al3x/CLionProjects/lab01-Inheritance/cmake-build-debug/CMakeFiles/lab01_Inheritance.dir
+C:/Users/Al3x/CLionProjects/lab01-Inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Al3x/CLionProjects/lab01-Inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
